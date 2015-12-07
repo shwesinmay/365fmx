@@ -1,0 +1,38 @@
+The following is a list of third-party software components and their licenses.
+
+SOFTWARE COMPONENT					LICENSE FILE
+idevice_id.exe						lgpl-2.1.txt
+ideviceactivation.exe					lgpl-2.1.txt
+ideviceapprunner.exe					gpl-2.0.txt
+idevicebackup.exe					lgpl-2.1.txt
+idevicebackup2.exe					lgpl-2.1.txt
+idevicedate.exe						lgpl-2.1.txt
+idevicedebug.exe					lgpl-2.1.txt
+idevicedebugserverproxy.exe				lgpl-2.1.txt
+idevicediagnostics.exe					lgpl-2.1.txt
+ideviceenterrecovery.exe				lgpl-2.1.txt
+ideviceimagemounter.exe					lgpl-2.1.txt
+ideviceinfo.exe						lgpl-2.1.txt
+ideviceinstaller.exe					gpl-2.0.txt
+idevicename.exe						lgpl-2.1.txt
+idevicepair.exe						lgpl-2.1.txt
+ideviceprovision.exe					lgpl-2.1.txt
+idevicerestore.exe					lgpl-2.1.txt
+idevicescreenshot.exe					gpl-2.0.txt
+idevicesyslog.exe					lgpl-2.1.txt
+iproxy.exe						gpl-2.0.txt
+irecovery.exe						lgpl-2.1.txt
+libcurl-4.dll						curl.txt
+libgcc_s_dw2-1.dll					gpl-3.0.txt, gcc-runtime.txt
+libiconv-2.dll						libgpl.txt
+libideviceactivation-2.dll				lgpl-2.1.txt
+libimobiledevice.dll					lgpl-2.1.txt
+libirecovery.dll					lgpl-2.1.txt
+libplist.dll						lgpl-2.1.txt
+libusbmuxd.dll						lgpl-2.1.txt
+libxml2-2.dll						libxml2.txt
+libzip-2.dll						libzip.txt
+readline5.dll						gpl-2.0.txt
+
+These components may include the OpenSSL library. The OpenSSL license is included in the openssl.txt file.
+These components may include the pthreads library. The pthreads library license is included in the pthreads.txt file.
